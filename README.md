@@ -30,25 +30,3 @@ Happy Coding! 💻✨
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DOM Manipulation</title>
-    <link rel="stylesheet" href="styles.css">
-    <script defer src="script.js"></script>
-</head>
-<body>
-    <h1 id="title">Welcome to My Page</h1>
-    <p id="description">Click the button to change this text.</p>
-    
-    <button id="changeText">Change Text</button>
-    <button id="toggleElement">Toggle Element</button>
-
-    <div id="extraContent" style="display: none;">
-        <p>This is an extra paragraph that can be toggled.</p>
-    </div>
-	
-</body>
-</html>
